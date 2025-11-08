@@ -57,7 +57,7 @@ Frontend və Backend üzrə bacarıqlara sahib, daim öyrənməyə və inkişaf 
 
 ⭐ **Əgər mənimlə əlaqə saxlamaq və ya əməkdaşlıq etmək istəsəniz, yuxarıdakı məlumatlardan istifadə edə bilərsiniz!**
 
-
+---
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
